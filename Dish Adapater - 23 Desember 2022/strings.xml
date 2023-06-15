@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Gelato</string>
+
+    <string name="minus">-</string>
+    <string name="zero">0</string>
+    <string name="plus">+</string>
+    <string name="menu">Chocolate</string>
+    <string name="drscription">Rasa coklat yang <b>manis</b> dan mengiurkan. \nDiracik dari buah coklat
+        <i>original</i> Indonesia. Rasa ini dapat menggoda melalui namanya dan kilauan yang mempesona setiap mata
+        yang memandang. Silahkan mengunjungi https://www.instagram.com/elmogelato.id/?hl=id untuk melihat menu
+        lainnya</string>
+    <string name="foodDescription">food_description</string>
+    <string name="foodName">food_name</string>
+    <string name="TambahPesanan">order</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="dine">Dine In</string>
+    <string name="take">Take Away</string>
+    
+    <string-array name="name">
+        <item>Chocolate</item>
+        <item>Blackberry</item>
+        <item>Durian</item>
+    </string-array>
+
+    <integer-array name="quantities">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="images">
+        <item>@drawable/chocolate</item>
+        <item>@drawable/blackberry</item>
+        <item>@drawable/durian</item>
+    </integer-array>
+
+
+</resources>
